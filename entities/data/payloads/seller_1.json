@@ -1,0 +1,248 @@
+{
+  "linkedinData":{
+    "skills": [
+  {
+    "title": "React",
+    "endorsements": {
+      "endorsed_by_others": "",
+      "endorsed_by_colleagues": "Endorsed by 2 colleagues at Stefanini Brasil",
+      "endorsed_by_linkedin": "Passed LinkedIn Skill Assessment",
+      "endorsed_quantitys": "7 endorsements"
+    }
+  },
+  {
+    "title": "C#",
+    "endorsements": {
+      "endorsed_by_others": "Endorsed by Leonardo Fraga and 1 other who is highly skilled at this",
+      "endorsed_by_colleagues": "Endorsed by 3 colleagues at Stefanini Brasil",
+      "endorsed_by_linkedin": "",
+      "endorsed_quantitys": "9 endorsements"
+    }
+  },
+  {
+    "title": "Java",
+    "endorsements": {
+      "endorsed_by_others": "",
+      "endorsed_by_colleagues": "",
+      "endorsed_by_linkedin": "",
+      "endorsed_quantitys": ""
+    }},
+  {
+    "title": "S.O.L.I.D",
+    "endorsements": {
+      "endorsed_by_others": "",
+      "endorsed_by_colleagues": "",
+      "endorsed_by_linkedin": "",
+      "endorsed_quantitys": ""
+    }
+  },
+    {
+    "title": "TTD",
+    "endorsements": {
+      "endorsed_by_others": "",
+      "endorsed_by_colleagues": "",
+      "endorsed_by_linkedin": "",
+      "endorsed_quantitys": ""
+    }
+  }],
+    "licensesAndCertifications":[
+      {
+        "title":"senior",
+        "institution":"Scrum Alliance",
+        "emitDate":"mar de 2013 ",
+        "expire":" Expira em abr de 2015",
+        "codeOfCrendential":"",
+        "urlCredential":""
+      }
+    ],
+    "publications":[
+    {
+      "title": "In silico analysis of ESTs from roots of Rangpur lime (Citrus limonia Osbeck) under water stress",
+      "journal": "Genetics and Molecular Biology",
+      "date": " 6 de mar de 2007"
+    },
+    {
+      "title": "Bioinformatics for the Citrus EST Project (CitEST)",
+      "journal": "Genetics and Molecular Biology ",
+      "date": " 6 de mar de 2007"
+    }
+  ],
+    "education":[
+      {
+        "schoolName":"Universidade Estadual de Ponta Grossa",
+        "degreeName":"Análise e desenvolvimento de sistemas",
+        "startDate":"2012 ",
+        "endDate":" 2014",
+        "fieldOfStudy":""
+      },
+      {
+        "schoolName":"Universidade Unicornio",
+        "degreeName":"Perito",
+        "startDate":"2012 ",
+        "endDate":" 2014",
+        "fieldOfStudy":""
+      },
+      {
+        "schoolName":"Universidade Unicornio",
+        "degreeName":"Análise e desenvolvimento de sistemas",
+        "startDate":"2012 ",
+        "endDate":" 2014",
+        "fieldOfStudy":""
+      }
+    ],
+    "experiences":[
+      {
+        "title":"Tech Lead",
+        "company":"SAE Digital S.A. · Tempo integral",
+        "startDate":"jun de 2020 ",
+        "endDate":" set de 2021 ",
+        "endDateIsPresent":false,
+        "location":"Curitiba, Paraná, Brazil",
+        "description":"Promote technical improvements and restructuring the Educational Technology team, and supporting/developing front-end with Vue and Back with Node and PHP, react"
+      },
+      {
+        "title":"Specialist Developer",
+        "company":"Kovi · Terceirizado",
+        "startDate":"nov de 2019 ",
+        "endDate":" jun de 2020 ",
+        "endDateIsPresent":false,
+        "location":"São Paulo Area, Brazil",
+        "description":"-development of internal platforms for fleet control, tracking and registration of vehicles and drivers with vue, typescript, sass and node- singluar and recurring billing system for subscriptions with vue, nuxt and node- control of sensitive information and data from datalake- structuring services and endpoints with graphql, express and node"
+      }
+    ],
+    "_id":"6255bcd87795be31d7bbd975",
+    "user_id":"6250bfa19c17cf7ae989c41d",
+    "__v":0,
+    "create_at":"2022-04-12T17:54:32.220Z",
+    "recommendations":{
+      "received":[
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C4E03AQFw5p6uz0XcHA/profile-displayphoto-shrink_100_100/0/1614096061855?e=1655337600&v=beta&t=uZLG0R8q4eeLvXVNxm1Ihir-qjhApcLARZG2GYDQPF8",
+          "name":"Ernesto Marczal",
+          "title":"Product Manager no SAE Digital S.A. | Educador e Historiador.",
+          "interactionDetails":"Em 18 de setembro de 2021, Gabriel era sênior em relação a Ernesto, mas não supervisionava Ernesto diretamente",
+          "comment":"Dedicação, olhar crítico, versatilidade, profundidade técnica e vasto conhecimento de produto e design são algumas das características e competências que pude acompanhar de perto do Gabriel Gripp. No período em que trabalhamos juntos, foi possível constatar suas qualidades em diferentes papeis. Como desenvolvedor, atuando intensamente, e em múltiplas frentes, na construção de soluções e na arquitetura de sistemas com tecnologias de ponta. Na posição de tech lead, destacou-se como pilar técnico e na gestão e orientação dos times, sempre buscando facilitar o trabalho e remover bloqueios. E enquanto liderança, com o olhar voltado para o desenvolvimento e cuidado das pessoas.Além da entrega e resolutividade diante de situações problemas e em projetos complexos, o Gripp é um profissional engajado e com profundo senso de propósito. Está sempre pronto para debater, apresentar ideias e compartilhar conhecimento. Sem dúvidas, é uma grande referência, com quem aprendi muito, não apenas sobre tecnologia, mas também sobre processos, agilidade, design e produto."
+        },
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C4E03AQEUBLiLi4Nxew/profile-displayphoto-shrink_100_100/0/1516898511221?e=1655337600&v=beta&t=0fsxrpWMBtoJSQUF_zSqbqYVANBqQARmoywk6l8x4Cs",
+          "name":"Denis Ibanez",
+          "title":"Code Forrest, Code!",
+          "interactionDetails":"Em 30 de abril de 2020, Denis trabalhava com Gabriel na mesma equipe",
+          "comment":"Profissional dedicado, competente tecnicamente e sempre disposto a ajudar. Foi um prazer enorme trabalhar contigo."
+        },
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C4D03AQFC_VThBSkJsw/profile-displayphoto-shrink_100_100/0/1629285866244?e=1655337600&v=beta&t=6gpdeNR8ov_ozd8_BDGM3NOMBsniPbG97oqAjaBtHCo",
+          "name":"Filipe Kiss",
+          "title":"Lead Front End Developer @ dealroom.co",
+          "interactionDetails":"Em 6 de fevereiro de 2020, Filipe trabalhava com Gabriel na mesma equipe",
+          "comment":"teste"
+        },
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C4D03AQF1xS7O00xwog/profile-displayphoto-shrink_100_100/0/1516990036246?e=1655337600&v=beta&t=XsUXBCF-7Jie9yFyzfcsD8zXqNUKan-uKBqhchAndpg",
+          "name":"Bruno Sergio",
+          "title":"Designer da empresa FIOCRUZ - ICICT",
+          "interactionDetails":"Em 2 de janeiro de 2017, Bruno trabalhava com Gabriel na mesma equipe",
+          "comment":"Tive o prazer e a alegria de trabalhar com o Gabriel no site do jornal O Globo. Além de excelente pessoa, ele sempre foi um excelente profissional. É muito bom e importante trabalhar com quem sabemos que entrega com qualidade, mas que também tem um agradabilíssimo e fluente trabalho em equipe."
+        },
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C4D03AQFgoUCNLHfxoQ/profile-displayphoto-shrink_100_100/0/1534873350327?e=1655337600&v=beta&t=LG8dta-ucFIjLxhlUWEkAevywVV51cB0_MBBMJ22HAE",
+          "name":"Marcelo Palladino",
+          "title":"Senior Software engineer at Nubank | 8x AWS Certified | AWS Community Hero",
+          "interactionDetails":"Em 13 de dezembro de 2014, Marcelo trabalhava com Gabriel na mesma equipe",
+          "comment":"O Gabriel é um designer extremamente talentoso, bem informado e com extremo bom gosto. Atua de forma excelente em equipe, é (MUITO) bem humorado e transita com facilidade em todos os estágios de desenvolvimento de software. Pessoalmente, vou sentir falta de trabalhar com ele."
+        },
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C5603AQHtfeW9fHOHng/profile-displayphoto-shrink_100_100/0/1631275847488?e=1655337600&v=beta&t=VT1gk3-yvrghg6HvDDOUuGoqIO8RB9xHmYMI7K7MPDA",
+          "name":"Vanissa Wanick, PhD",
+          "title":"Design Researcher, UX Designer & Educator | Women in Games ambassador WIGJ",
+          "interactionDetails":"Em 4 de setembro de 2012, Vanissa trabalhava com Gabriel na mesma equipe",
+          "comment":"O Gabriel é um dos melhores front-end developers que já conheci. Muito dedicado ao seu trabalho, está sempre engajado em novas tendências em web, desenvolvimento e tecnologia. Além de ser um profissional muito criativo, procura sempre realizar seus projetos com primor, qualidade e inteligência."
+        },
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C4D03AQGmu7cJtSjxuA/profile-displayphoto-shrink_100_100/0/1602699347141?e=1655337600&v=beta&t=kUDctEBp2bk72ChqbrZW2ZYx3fG0p_qq2np9jvNye-c",
+          "name":"Inácio Schweller",
+          "title":"Senior Engineering Manager at Nuri",
+          "interactionDetails":"Em 5 de abril de 2012, Inácio trabalhava com Gabriel na mesma equipe",
+          "comment":"Um excelente profissional e muito bom na passagem de conhecimento. Aprendi que trabalhar em equipe pode ser muito prazeroso quando se tem uma pessoa de altíssimo nível, inteligente e capaz no que trabalha. Com certeza um dos melhores desenvolvedores de front-end que já conheci e, trabalhei."
+        },
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C4D03AQGHRb1IPIBHlQ/profile-displayphoto-shrink_100_100/0/1627618184800?e=1655337600&v=beta&t=cFZC5fhNYBy9Fy2F8OtKohWHcu02-s2ZVXv9zXOK2RE",
+          "name":"João Vagner Brito de Medeiros",
+          "title":"Site Reliability Engineering | Tech Lead | DevOps | AWS na Terra Investimentos",
+          "interactionDetails":"Em 9 de dezembro de 2011, João Vagner trabalhava com Gabriel mas em empresas diferentes",
+          "comment":"O Gabriel é um ótimo profissional com uma noção fora do comum com semantica, SEO, e tudo que um front-end Enginer deve possuir. Comprometindo 100% nos projetos e nos processos."
+        }
+      ],
+      "sent":[
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C4D03AQGO7zMbaFLmEw/profile-displayphoto-shrink_100_100/0/1610989878555?e=1655337600&v=beta&t=66DVTkoNx4Qj1X31OpP9sQuWAc0ABezaHmOfCD6wkfM",
+          "name":"Junior Contrim",
+          "title":"Group Product Manager at Loggi",
+          "interactionDetails":"Em 17 de abril de 2020, Gabriel respondia a Junior",
+          "comment":"Contrim, as product manager, was an important piece for the professional maturation of an entire team, and when it came to the product, it carried with it the responsibility to evolve and bring systematic knowledge to its operation from end to end, very attentive to details, critical to deliveries, and at the same time, human and playful, taking the weight out of being at the forefront of a product with such a \"human cost\", as Kovi\\'s focus is.If you are looking for someone who can trust your product, your operation, and the process for your growth processes, this is the guy.Thanks for the time and shared knowledge!"
+        },
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C4D03AQEo5Ps-myXMOw/profile-displayphoto-shrink_100_100/0/1534878789435?e=1655337600&v=beta&t=Xf53urUNUyDl1MizugrA-ZA0vKlswIbdpfPF45glxIg",
+          "name":"Rafael Ventura",
+          "title":"Product Designer | Design Ops",
+          "interactionDetails":"Em 16 de abril de 2020, Gabriel trabalhava com Rafael na mesma equipe",
+          "comment":"Rafael is an odd professional, with an ability to perceive scenarios, and absorb knowledge above the curve.As a direct partner of him in the kovi UX team, we built the basis for a more robust product, and defined the directions to be taken by the product, supporting the decision of the product and business managers in the best way, and it was exceptional to work with I highly recommend him if you need someone with a special perception, talk to him!"
+        },
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C4D03AQHfEU-piEHuZg/profile-displayphoto-shrink_100_100/0/1569552046936?e=1655337600&v=beta&t=NpRuwJwk-O09U1YhQaP7m6BZuRmb8GxQUteQKhsYvb8",
+          "name":"Rodrigo Silva",
+          "title":"Backend Developer",
+          "interactionDetails":"Em 2 de outubro de 2019, Gabriel trabalhava com Rodrigo na mesma equipe",
+          "comment":"O Rodrigo é um dev hiper capaz, e de longe umas das pessoas com maior poder de absorção de conhecimento que já trabalhei, desde a primeira vez, quando ele ainda era junior, sua curiosidade e capacidade de aprendizado me chamava a atenção, e com o tempo isso só se mostrou cada vez mais verdade!Um dev que se importa mais com a qualidade e menos com a linguagem que se tenha de trabalhar, e que em todas que pude parear com ele, solicitar ajuda, ou oferecer auxílio, sempre se portou de forma exímia e atenta, tanto para passar o conhecimento, quanto para recebe-lo!Recomendo profissionalmente, e pela sua postura no ambiente de trabalho, e reitero que é um dos melhores devs que já trabalhei ao lado!"
+        },
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C5603AQGd84tWpReiLw/profile-displayphoto-shrink_100_100/0/1516535795421?e=1655337600&v=beta&t=MF8iDV-3XWZGHytwHqoqSU7v0yBB1ZRGgdCZUTIA_N4",
+          "name":"Rodrigo Marchena",
+          "title":"Javascript Software Engineer at Gamers Club",
+          "interactionDetails":"Em 11 de novembro de 2015, Gabriel trabalhava com Rodrigo na mesma equipe",
+          "comment":"Rodrigo is a differentiated, effective professional and attuned to the technology, has a professional skill for front-end especially with angularJS that helped me a lot and enriched me."
+        },
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C5603AQHtfeW9fHOHng/profile-displayphoto-shrink_100_100/0/1631275847488?e=1655337600&v=beta&t=VT1gk3-yvrghg6HvDDOUuGoqIO8RB9xHmYMI7K7MPDA",
+          "name":"Vanissa Wanick, PhD",
+          "title":"Design Researcher, UX Designer & Educator | Women in Games ambassador WIGJ",
+          "interactionDetails":"Em 4 de setembro de 2012, Gabriel trabalhava com Vanissa na mesma equipe",
+          "comment":"Uma profissional dedicada, detalhista e muito concisa em seu trabalho, layouts bem estruturados e limpos, e uma excelente noção de código. Indico pela competência e pela astúcia demonstrada durante o período compartilhei projetos!"
+        },
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C4D03AQGmu7cJtSjxuA/profile-displayphoto-shrink_100_100/0/1602699347141?e=1655337600&v=beta&t=kUDctEBp2bk72ChqbrZW2ZYx3fG0p_qq2np9jvNye-c",
+          "name":"Inácio Schweller",
+          "title":"Senior Engineering Manager at Nuri",
+          "interactionDetails":"Em 10 de abril de 2012, Gabriel era sênior em relação a Inácio, mas não supervisionava Inácio diretamente",
+          "comment":"Um profissional de personalidade forte, muito dinâmico, com gana de aprender, e que não mede esforços para se tornar cada dia melhor no seu desempenho profissional, e com conhecimentos a serem aproveitados por todos da equipe."
+        },
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C4D03AQH8JqufvVSyPQ/profile-displayphoto-shrink_100_100/0/1516883989578?e=1655337600&v=beta&t=BGR8NT6f4oxSo6mfv919sYVTn3-Y8l6ngeDh9nlLvhw",
+          "name":"Leandro Monteiro",
+          "title":"Human Centered Designer",
+          "interactionDetails":"Em 7 de março de 2012, Gabriel trabalhava com Leandro na mesma equipe",
+          "comment":"Um profissional excepcional, organizado, integro e muito competente dentro de seus atributos profissionais, ótimo bom senso estético para layouts, peças e afins."
+        }
+      ]
+    },
+    "update_at":"2022-04-12T17:54:32.220Z",
+    "updated":false,
+    "userProfile":{
+      "fullName":"Gabriel Gripp",
+      "title":"Technology and People Development | JavaScript | Node | Vue | React | S.O.L.I.D",
+      "location":{
+        "city":"Vila Velha",
+        "country":"Espírito Santo"
+      },
+      "photo":"https://media-exp1.licdn.com/dms/image/C4D03AQGLjKAF5VPhRA/profile-displayphoto-shrink_200_200/0/1530634265632?e=1655337600&v=beta&t=tRO4WWsPWJXWDx5vvrtz9cZOvefO-tA7AAJkwGOLdeM",
+      "connections":"+ de 500 conexões",
+      "description":"Passionate about helping people do their best, and working tirelessly to make technology a great differentiator, and a transformative agent in the lives of many!Alignment of processes and definition of product targets, transforming the needs of stakeholders and customers into technology stories for the engineering team.Leadership:- Personal development;- Career progression and Development; - IDP, KPIs and OKRs;- 1:1 and feedback routines;Development:- JavaScript;- Vue;- Nuxt;- Node;- HTML;- CSS;- SASS / Stylus;- Magento;- Monorepo;- Microservices APIs with Node, GraphQL and MongoDB;- Experience with systems integration, Java, Ruby, Python, PHP, Node and .Net;User:- Experience and Usability;- Usable and Navigational Mockups;- Responsive layouts and mobile sites, enthusiast of new technologies and resources;",
+      "url":"https://www.linkedin.com/in/grippado/"
+    }
+  },
+  "userId":"6250bfa19c17cf7ae989c41d",
+  "level": 8,
+  "highlightedSkills": ["C#/.Net","React"],
+  "secondarySkills": ["Javascript", "Javascript", "CSS", "SQL", "Node"],
+  "career": "Back-end"
+}

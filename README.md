@@ -8,16 +8,16 @@ first, you have to install Docker.
 For run locally you have to start the docker, build docker image and run:
 ```
 sudo service docker start
-docker build -t ez-devs-linkedin-evaluation .
-docker run -dp 8000:8000 ez-devs-linkedin-evaluation
+docker build -t linkedin-evaluation .
+docker run -dp 8000:8000 linkedin-evaluation
 ```
 For run in prod you have to start the docker and enter in ez-devs-linkedin-evaluation repository inside ECR and get the first push command and run the code in your project.
 
 Next step is build, tag and post your image:
 ```
-docker build -t ez-devs-linkedin-evaluation .
-docker tag ez-devs-linkedin-evaluation:latest xxxxx.dkr.ecr.us-east-1.amazonaws.com/ez-devs-linkedin-evaluation:latest
-docker push xxxxx.dkr.ecr.us-east-1.amazonaws.com/ez-devs-linkedin-evaluation:latest
+docker build -t linkedin-evaluation .
+docker tag linkedin-evaluation:latest xxxxx.dkr.ecr.us-east-1.amazonaws.com/linkedin-evaluation:latest
+docker push xxxxx.dkr.ecr.us-east-1.amazonaws.com/linkedin-evaluation:latest
 ```
 After that, you have to connect to EC2 instance and configure your aws account in:
 ```
@@ -76,6 +76,3 @@ Example response:
     }
 }
 ```
-
-You can see more about this algorithm in notion:
-https://www.notion.so/ezdevs/Algoritmo-do-LinkedIn-e993350740b048b7be09aeb65cd4bce9

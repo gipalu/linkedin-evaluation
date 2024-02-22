@@ -1,0 +1,55 @@
+{
+  "linkedinData":{
+    "skills": [],
+    "licensesAndCertifications":[],
+    "publications":[],
+    "education":[],
+    "experiences":[
+      {
+        "title":"Front-end Developer",
+        "company":"SAE Digital S.A. · Tempo integral",
+        "startDate":"jun de 2019 ",
+        "endDate":" set de 2019 ",
+        "endDateIsPresent":false,
+        "location":"Curitiba, Paraná, Brazil",
+        "description":""
+      },
+      {
+        "title":"Back Front Developer",
+        "company":"Kovi · Terceirizado",
+        "startDate":"nov de 2015 ",
+        "endDate":" dez de 2020 ",
+        "endDateIsPresent":false,
+        "location":"São Paulo Area, Brazil",
+        "description":"-development of internal platforms for fleet control, tracking and registration of vehicles and drivers with vue, typescript, sass and node- singluar and recurring billing system for subscriptions with vue, nuxt and node- control of sensitive information and data from datalake- structuring services and endpoints with graphql, express and node"
+      }
+    ],
+    "_id":"6255bcd87795be31d7bbd975",
+    "user_id":"6250bfa19c17cf7ae989c41d",
+    "__v":0,
+    "create_at":"2022-04-12T17:54:32.220Z",
+    "recommendations":{
+      "received":[],
+      "sent":[]
+    },
+    "update_at":"2022-04-12T17:54:32.220Z",
+    "updated":false,
+    "userProfile":{
+      "fullName":"Gabriel Gripp",
+      "title":"Technology and People Development | JavaScript | Node | Vue | React | S.O.L.I.D",
+      "location":{
+        "city":"Vila Velha",
+        "country":"Espírito Santo"
+      },
+      "photo":"https://media-exp1.licdn.com/dms/image/C4D03AQGLjKAF5VPhRA/profile-displayphoto-shrink_200_200/0/1530634265632?e=1655337600&v=beta&t=tRO4WWsPWJXWDx5vvrtz9cZOvefO-tA7AAJkwGOLdeM",
+      "connections":"+ de 500 conexões",
+      "description":"Passionate about helping people do their best, and working tirelessly to make technology a great differentiator, and a transformative agent in the lives of many!Alignment of processes and definition of product targets, transforming the needs of stakeholders and customers into technology stories for the engineering team.Leadership:- Personal development;- Career progression and Development; - IDP, KPIs and OKRs;- 1:1 and feedback routines;Development:- JavaScript;- Vue;- Nuxt;- Node;- HTML;- CSS;- SASS / Stylus;- Magento;- Monorepo;- Microservices APIs with Node, GraphQL and MongoDB;- Experience with systems integration, Java, Ruby, Python, PHP, Node and .Net;User:- Experience and Usability;- Usable and Navigational Mockups;- Responsive layouts and mobile sites, enthusiast of new technologies and resources;",
+      "url":"https://www.linkedin.com/in/grippado/"
+    }
+  },
+  "userId":"6250bfa19c17cf7ae989c41d",
+  "level": 8,
+  "highlightedSkills": ["C#/.Net","React"],
+  "secondarySkills": ["Javascript", "Javascript", "CSS", "SQL", "Node"],
+  "career": "Back-end"
+}

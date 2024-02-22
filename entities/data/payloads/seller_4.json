@@ -1,0 +1,94 @@
+{
+  "linkedinData":{
+    "skills": [
+  {
+    "title": "React",
+    "endorsements": {
+      "endorsed_by_others": "",
+      "endorsed_by_colleagues": "Endorsed by 2 colleagues at Stefanini Brasil",
+      "endorsed_by_linkedin": "Passed LinkedIn Skill Assessment",
+      "endorsed_quantitys": "7 endorsements"
+    }
+  }],
+    "licensesAndCertifications":[
+      {
+        "title":"senior",
+        "institution":"Scrum Alliance",
+        "emitDate":"mar de 2013 ",
+        "expire":" Expira em abr de 2015",
+        "codeOfCrendential":"",
+        "urlCredential":""
+      }
+    ],
+    "publications":[
+    {
+      "title": "In silico analysis of ESTs from roots of Rangpur lime (Citrus limonia Osbeck) under water stress",
+      "journal": "Genetics and Molecular Biology",
+      "date": " 6 de mar de 2007"
+    }
+  ],
+    "education":[
+      {
+        "schoolName":"Universidade Estadual de Ponta Grossa",
+        "degreeName":"Análise e desenvolvimento de sistemas",
+        "startDate":"2012 ",
+        "endDate":" 2014",
+        "fieldOfStudy":""
+      }
+    ],
+    "experiences":[
+      {
+        "title":"Tech Lead",
+        "company":"SAE Digital S.A. · Tempo integral",
+        "startDate":"jun de 2020 ",
+        "endDate":" set de 2021 ",
+        "endDateIsPresent":false,
+        "location":"Curitiba, Paraná, Brazil",
+        "description":"Promote technical improvements and restructuring the Educational Technology team, and supporting/developing front-end with Vue and Back with Node and PHP, react"
+      }
+    ],
+    "_id":"6255bcd87795be31d7bbd975",
+    "user_id":"6250bfa19c17cf7ae989c41d",
+    "__v":0,
+    "create_at":"2022-04-12T17:54:32.220Z",
+    "recommendations":{
+      "received":[
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C4E03AQFw5p6uz0XcHA/profile-displayphoto-shrink_100_100/0/1614096061855?e=1655337600&v=beta&t=uZLG0R8q4eeLvXVNxm1Ihir-qjhApcLARZG2GYDQPF8",
+          "name":"Ernesto Marczal",
+          "title":"Product Manager no SAE Digital S.A. | Educador e Historiador.",
+          "interactionDetails":"Em 18 de setembro de 2021, Gabriel era sênior em relação a Ernesto, mas não supervisionava Ernesto diretamente",
+          "comment":"Dedicação, olhar crítico, versatilidade, profundidade técnica e vasto conhecimento de produto e design são algumas das características e competências que pude acompanhar de perto do Gabriel Gripp. No período em que trabalhamos juntos, foi possível constatar suas qualidades em diferentes papeis. Como desenvolvedor, atuando intensamente, e em múltiplas frentes, na construção de soluções e na arquitetura de sistemas com tecnologias de ponta. Na posição de tech lead, destacou-se como pilar técnico e na gestão e orientação dos times, sempre buscando facilitar o trabalho e remover bloqueios. E enquanto liderança, com o olhar voltado para o desenvolvimento e cuidado das pessoas.Além da entrega e resolutividade diante de situações problemas e em projetos complexos, o Gripp é um profissional engajado e com profundo senso de propósito. Está sempre pronto para debater, apresentar ideias e compartilhar conhecimento. Sem dúvidas, é uma grande referência, com quem aprendi muito, não apenas sobre tecnologia, mas também sobre processos, agilidade, design e produto."
+        }
+      ],
+      "sent":[
+        {
+          "photo":"https://media-exp1.licdn.com/dms/image/C4D03AQGO7zMbaFLmEw/profile-displayphoto-shrink_100_100/0/1610989878555?e=1655337600&v=beta&t=66DVTkoNx4Qj1X31OpP9sQuWAc0ABezaHmOfCD6wkfM",
+          "name":"Junior Contrim",
+          "title":"Group Product Manager at Loggi",
+          "interactionDetails":"Em 17 de abril de 2020, Gabriel respondia a Junior",
+          "comment":"Contrim, as product manager, was an important piece for the professional maturation of an entire team, and when it came to the product, it carried with it the responsibility to evolve and bring systematic knowledge to its operation from end to end, very attentive to details, critical to deliveries, and at the same time, human and playful, taking the weight out of being at the forefront of a product with such a \"human cost\", as Kovi\\'s focus is.If you are looking for someone who can trust your product, your operation, and the process for your growth processes, this is the guy.Thanks for the time and shared knowledge!"
+        }
+      ]
+    },
+    "update_at":"2022-04-12T17:54:32.220Z",
+    "updated":false,
+    "userProfile":{
+      "fullName":"Gabriel Gripp",
+      "title":"Technology and People Development | JavaScript | Node | Vue | React | S.O.L.I.D",
+      "location":{
+        "city":"Vila Velha",
+        "country":"Espírito Santo"
+      },
+      "photo":"https://media-exp1.licdn.com/dms/image/C4D03AQGLjKAF5VPhRA/profile-displayphoto-shrink_200_200/0/1530634265632?e=1655337600&v=beta&t=tRO4WWsPWJXWDx5vvrtz9cZOvefO-tA7AAJkwGOLdeM",
+      "connections":"+ de 500 conexões",
+      "description":"Passionate about helping people do their best, and working tirelessly to make technology a great differentiator, and a transformative agent in the lives of many!Alignment of processes and definition of product targets, transforming the needs of stakeholders and customers into technology stories for the engineering team.Leadership:- Personal development;- Career progression and Development; - IDP, KPIs and OKRs;- 1:1 and feedback routines;Development:- JavaScript;- Vue;- Nuxt;- Node;- HTML;- CSS;- SASS / Stylus;- Magento;- Monorepo;- Microservices APIs with Node, GraphQL and MongoDB;- Experience with systems integration, Java, Ruby, Python, PHP, Node and .Net;User:- Experience and Usability;- Usable and Navigational Mockups;- Responsive layouts and mobile sites, enthusiast of new technologies and resources;",
+      "url":"https://www.linkedin.com/in/grippado/"
+    }
+  },
+  "userId":"6250bfa19c17cf7ae989c41d",
+  "level": 8,
+  "highlightedSkills": ["C#/.Net","React"],
+  "secondarySkills": ["Javascript", "Javascript", "CSS", "SQL", "Node"],
+  "career": "Back-end"
+}

@@ -1,0 +1,41 @@
+{
+  "linkedinData":{
+    "skills": [],
+    "licensesAndCertifications":[],
+    "publications":[
+  ],
+    "education":[
+    ],
+    "experiences":[
+    ],
+    "_id":"6255bcd87795be31d7bbd975",
+    "user_id":"6250bfa19c17cf7ae989c41d",
+    "__v":0,
+    "create_at":"2022-04-12T17:54:32.220Z",
+    "recommendations":{
+      "received":[
+      ],
+      "sent":[
+      ]
+    },
+    "update_at":"2022-04-12T17:54:32.220Z",
+    "updated":false,
+    "userProfile":{
+      "fullName":"Gabriel Gripp",
+      "title":"",
+      "location":{
+        "city":"Vila Velha",
+        "country":"Espírito Santo"
+      },
+      "photo":"https://media-exp1.licdn.com/dms/image/C4D03AQGLjKAF5VPhRA/profile-displayphoto-shrink_200_200/0/1530634265632?e=1655337600&v=beta&t=tRO4WWsPWJXWDx5vvrtz9cZOvefO-tA7AAJkwGOLdeM",
+      "connections":"+ de 500 conexões",
+      "description":"",
+      "url":"https://www.linkedin.com/in/grippado/"
+    }
+  },
+  "userId":"6250bfa19c17cf7ae989c41d",
+  "level": 8,
+  "highlightedSkills": ["C#/.Net","React"],
+  "secondarySkills": ["Javascript", "Javascript", "CSS", "SQL", "Node"],
+  "career": "Back-end"
+}
